@@ -5,7 +5,7 @@ export default function Page() {
 		<div>
 			<h1>Home</h1>
 			<h2>real home</h2>
-			<Link href="/about">About</Link>
+			<Link href="/about">다시 한 번 가자!!</Link>
 		</div>
 	);
 }
